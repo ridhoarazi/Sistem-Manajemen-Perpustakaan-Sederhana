@@ -25,5 +25,5 @@ Program juga menampilkan daftar anggota dan status buku (apakah sedang dipinjam 
 ## ▶️ Cara Menjalankan Program
 1. Pastikan kamu sudah menginstal **JDK (Java Development Kit)** dan **IDE** seperti NetBeans, IntelliJ, atau VS Code.  
 2. Atur struktur folder sesuai dengan deklarasi package:
-<pre> ```plaintext src/ └── uts/ └── praktikum/ ├── interfaces/ │ └── Transaksi.java ├── models/ │ ├── Buku.java │ └── Anggota.java └── PerpusMain.java ``` </pre>
+src/ └── Perpus/ └── PerpusMain.java/ ├── interfaces/ │ └── Transaksi.java ├── models/ │ ├── Buku.java │ └── Anggota.java
 3. Jalankan file `PerpusMain.java`
