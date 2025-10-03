@@ -1,11 +1,11 @@
 # 📚 Sistem Manajemen Perpustakaan Sederhana
-Proyek ini merupakan tugas UTS Praktikum Pemrograman Berorientasi Objek (PBO).  
+Tugas UTS Praktikum Pemrograman Berorientasi Objek (PBO).  
 
 ---
 
 ## 🧾 Deskripsi Program
 Program ini berfungsi untuk mengelola data perpustakaan secara sederhana.  
-Terdapat dua entitas utama, yaitu Buku dan Anggota.  
+Terdapat dua class utama, yaitu Buku dan Anggota.  
 Setiap anggota dapat meminjam dan mengembalikan buku.  
 Program juga menampilkan daftar anggota dan status buku (apakah sedang dipinjam atau tersedia).
 
