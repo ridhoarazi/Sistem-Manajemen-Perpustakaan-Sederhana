@@ -13,8 +13,8 @@ Program juga menampilkan daftar anggota dan status buku (apakah sedang dipinjam 
 
 ## 🧱 Struktur Class
 
-| Nama Class | Deskripsi |
-|-------------|------------|
+| Nama Class |
+|-------------|
 | **Buku** | 
 | **Anggota** | 
 | **Transaksi** *(interface)* | 
